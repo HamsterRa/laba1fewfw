@@ -24,5 +24,10 @@ namespace govnogovna
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            //gaaaaaaaaaaaaaaaaaaay
+        }
     }
 }
